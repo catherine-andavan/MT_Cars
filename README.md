@@ -1,2 +1,4 @@
 # MT_Cars
-PCA on mt cars dataset
+
+PCA done on dataset. Explained Variance Ratio used to determine the number of components.
+Loading Matrix created to find the correlation between the components and individual features.
